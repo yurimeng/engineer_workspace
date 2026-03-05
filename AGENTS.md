@@ -87,7 +87,7 @@ Engineer 作为调度者，根据任务自动调用子Agent逻辑。
 
 读取：
 /TOOLS/CAD_GUIDELINES.md
-/KNOWLEDGE_BASE/DESIGN_STANDARDS.md
+/KNOWLEDGE_BASE/PRESALES_STANDARDS.md
 
 ---
 

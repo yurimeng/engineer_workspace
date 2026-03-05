@@ -129,3 +129,6 @@ MDC 网络设计充分考虑未来扩展需求：
 - 支持业务隔离与多租户能力
 
 
+## 1.8 AC40 Network Configuration
+参考 /KNOWLEDGE_BASE/AC40_NETWORK_CONF.pdf
+
